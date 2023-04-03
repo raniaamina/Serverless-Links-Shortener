@@ -29,16 +29,16 @@ Pemendek URL personal yang dapat kamu host sendiri dan pakai suka-suka kamu!
 
 ## Tangkapan Layar
 
-![Pengaturan Tabel](screenshots/table.png)
+![Pengaturan Tabel](screenshots/table.png) <br>
 Pengaturan Tabel
 
-![Halaman Depan](screenshots/home.png)
+![Halaman Depan](screenshots/home.png) <br>
 Halaman Depan
 
-![Halaman Redirect](screenshots/redirect.png)
+![Halaman Redirect](screenshots/redirect.png) <br>
 Halaman Redirect
 
-![Halaman 404](screenshots/404.png)
+![Halaman 404](screenshots/404.png) <br>
 Halaman 404
 
 
