@@ -1,0 +1,20 @@
+.glassed-light-bg {
+  /*width: 300px;*/
+  min-height: 100vh;
+  backdrop-filter: blur(20px) saturate(180%);
+  -webkit-backdrop-filter: blur(20px) saturate(180%);
+  background-color: rgba(7,2,2,0.19);
+  /*border-radius: 12px;*/
+  border: 0px solid rgba(255, 255, 255, 0.125);
+}
+
+.glassed-light {
+  width: 300px;
+  height: 400px;
+  backdrop-filter: blur(12px) saturate(180%);
+  -webkit-backdrop-filter: blur(12px) saturate(180%);
+  background-color: rgba(130,144,169,0.19);
+  border-radius: 12px;
+  border: 0px solid rgba(255, 255, 255, 0.125);
+}
+
